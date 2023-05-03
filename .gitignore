@@ -16,8 +16,8 @@
 # Mono auto generated files
 mono_crash.*
 
-[Bb]in/[Dd]ebug/*
-![Bb]in/[Dd]ebug/Chansons
+bin/Debug/*
+!bin/Debug/Chansons
 
 
 # Build results
